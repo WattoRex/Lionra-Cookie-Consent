@@ -437,6 +437,8 @@ yarn add lionra-cookieconsent
 
 ### ESM (Vite, Rollup, Webpack 5+)
 
+[Vite Live Demo :](https://stackblitz.com/edit/vitejs-vite-qwckxdu7?file=src%2Fmain.js)
+
 ```js
 import CookieConsent from "lionra-cookieconsent";
 // or named import
@@ -462,6 +464,8 @@ define(["CookieConsent"], function (CookieConsent) {
 ```
 
 ### React / Next.js
+
+[React / Next Live Demo :](https://stackblitz.com/edit/vitejs-vite-qwckxdu7?file=src%2Fmain.js)
 
 ```jsx
 import { useEffect } from "react";
@@ -490,6 +494,8 @@ export default function App() {
 > CookieConsent manipulates the DOM directly, always call `init()` inside `useEffect` (React) or `onMounted` (Vue) to ensure the DOM is ready.
 
 ### Vue 3 / Nuxt
+
+[Vue Live Demo :](https://stackblitz.com/edit/vitejs-vite-xeq6pnni?file=src%2Fcomponents%2FHelloWorld.vue)
 
 ```vue
 <script>
@@ -522,6 +528,8 @@ export default {
 ```
 
 ### Angular
+
+[Angular Live Demo :](https://stackblitz.com/edit/stackblitz-starters-9bkzhmmx?file=src%2Fmain.ts)
 
 ```ts
 import { Component, AfterViewInit } from "@angular/core";
