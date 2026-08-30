@@ -43,6 +43,18 @@ One file. No build step. Auto-display. Granular per-category consent. Compatible
 
 ---
 
+## ✨ LIVE DEMO
+
+[Vite Live Demo :](https://stackblitz.com/edit/vitejs-vite-qwckxdu7?file=src%2Fmain.js)
+
+[React / Next Live Demo :](https://stackblitz.com/edit/vitejs-vite-qwckxdu7?file=src%2Fmain.js)
+
+[Vue Live Demo :](https://stackblitz.com/edit/vitejs-vite-xeq6pnni?file=src%2Fcomponents%2FHelloWorld.vue)
+
+[Angular Live Demo :](https://stackblitz.com/edit/stackblitz-starters-9bkzhmmx?file=src%2Fmain.ts)
+
+---
+
 ## 🚀 Quick Start (CDN)
 
 Use the standalone JavaScript file directly in your page:

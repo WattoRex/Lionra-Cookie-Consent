@@ -1,6 +1,6 @@
 {
   "name": "lionra-cookieconsent",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Zero-dependency, plug-and-play cookie consent banner for any web page. Auto-display, granular categories, easy withdrawal button, light/dark theme, i18n, TypeScript types.",
   "author": "Manier Valentin",
   "license": "MIT",
