@@ -1,0 +1,48 @@
+{
+  "name": "lionra-cookieconsent",
+  "version": "1.0.0",
+  "description": "Zero-dependency, plug-and-play cookie consent banner for any web page. Auto-display, granular categories, easy withdrawal button, light/dark theme, i18n, TypeScript types.",
+  "author": "Manier Valentin",
+  "license": "MIT",
+  "keywords": [
+    "cookie-consent",
+    "cookie-banner",
+    "gdpr",
+    "rgpd",
+    "consent-management",
+    "privacy",
+    "vanilla-js",
+    "zero-dependency",
+    "i18n",
+    "typescript"
+  ],
+  "main": "./cookieconsent.js",
+  "module": "./cookieconsent.js",
+  "exports": {
+    ".": {
+      "types": "./cookieconsent.d.ts",
+      "import": "./cookieconsent.js",
+      "require": "./cookieconsent.js"
+    }
+  },
+  "files": [
+    "cookieconsent.js",
+    "cookieconsent.d.ts",
+    "README.md"
+  ],
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WattoRex/lionra-cookieconsent"
+  },
+  "bugs": {
+    "url": "https://github.com/WattoRex/lionra-cookieconsent/issues"
+  },
+  "homepage": "https://github.com/WattoRex/lionra-cookieconsent#readme",
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "jsdom": "^30.0.1"
+  }
+}
